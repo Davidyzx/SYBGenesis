@@ -133,7 +133,7 @@
 
 ### 完整回路：从"一次贡献"到"下一次贡献"
 
-![反馈回路图](./feedback-loop.png)
+![反馈回路图](./assets/feedback-loop.png)
  
 ## 5. 冷启动与运营
  
